@@ -1,10 +1,7 @@
-# Shortcode Generator for Miss Rose Telegram Bot
+# Telegram Button Generator
 
-an easy way to Create Shortcodes for Buttons to use in Telegram [Miss Rose Bot](https://Telegram.me/missrose_bot) and more
 
 # Introduction
-
-Miss Rose is a Popular Telegram Group Management Bot developed by [Paul Larsen](https://github.com/PaulSonOfLars)
 
 This Tool will help you to create Shortcodes for Buttons Easily 
 
