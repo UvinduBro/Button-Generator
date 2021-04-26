@@ -26,7 +26,7 @@ After the site is created, you can modify the code as much as you want and push 
 
 ### Credits:
 
-- [Uvindu Bro Co](https://github.com/UvinduBroCo)
+- [Uvindu Bro Org](https://github.com/UvinduBroOrg)
 
 ### Developers:
 
