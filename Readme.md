@@ -5,7 +5,7 @@
 
 This Tool will help you to create Shortcodes for Buttons Easily 
 
-Demo - https://toolshd.github.io/Rose-Button-Generator/
+Demo - http://www.uvindubro.tk/Button-Generator
 
 ## How to Create
 
